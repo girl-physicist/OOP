@@ -12,8 +12,6 @@
         cl.Put(200)
         Console.WriteLine("Остаток на счете клиента {0} {1} равен : {2}", cl.FirstName, cl.LastName, cl.CurentSum)
 
-
-
         Console.ReadLine()
     End Sub
 
